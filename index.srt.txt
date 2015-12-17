@@ -3,7 +3,7 @@
 ===========================================
 :Info: See <http://goo.gl/Z8xOMv> for official website and <http://goo.gl/V4G4s8> for the slides.
 :Autores: Ramiro Aznar <ramiroaznar@gmail.com> y Carmen Langa <mcarmenla@yahoo.es>
-:Groupo: GeoInquietos Madrid
+:Grupo: GeoInquietos Madrid
 :Fecha: 2015-12-05
 :Localización: Medialab-Prado, Madrid
 :Número de participantes: 14
@@ -15,7 +15,23 @@ Introducción: ¿Qué es un mapa?
 ==============================
 Para romper el hielo, conocernos un poquito y ganarnos la confianza de los pequeños hicimos una presentación fácil 
 e interactiva. Primero nos presentamos los tutores diciendo nuestros nombres y dos cosas que nos interesaban. En
-nuestro caso una lógicamente eran los mapas.
+nuestro caso una lógicamente eran los mapas. Después cada niño decía su nombre y dos de sus aficiones. Además, 
+todos llevábamos una pegatina con nuestro nombre.
+
+Nada más comenzar les preguntamos qué era lo que ellos pensaban que es un mapa y si se atrevían a hacer uno, sin 
+darles apenas indicaciones. Así dió comienzo el Taller 1. Una vez que los niños terminaron pensamos en común una 
+definición más exacta de mapa al mismo tiempo que se les planteaba la idea de la subjetividad de los mapas. Esta 
+idea generó cierta sensación de desconcierto que fue desapareciendo a medida que les explicábamos la utilidad de 
+los elementos que componen un mapa y ellos añadían al suyo los que faltaban.
+
+Para contarles que había multitud de tipos de mapas les dejamos diferentes mapas por encima de las mesas con el fin
+de que ellos buscasen los elementos del mapa que habíamos visto antes y viesen las diferencias entre unos y otros. 
+También los aprovechamos para explicarles como se calculaba la escala (en concreto la gráfica) ayudándonos de una
+regla.
+
+A continuación les mostramos una imagen aérea y un mapa de la almendra central de Madrid (zona interior de la M-30)
+con el objetivo de que los niños comprobasen que el lenguaje cartográfico puede expresar lo mismo que una imagen.
+Hubo unanimidad en la respuesta a la pregunta sobre cual de los dos les gustaba mas: el mapa.
 
 ¿Qué son los satélites?
 =======================
@@ -28,6 +44,17 @@ nuestro caso una lógicamente eran los mapas.
 
 ¿Quién trabaja haciendo mapas?
 ==============================
+La respuesta a esta pregunta fue una relación de profesiones. Les dijimos que todas ellas tenían en común que 
+necesitaban representar información que se distribuye en el espacio, tal y como habíamos visto anteriormente con 
+los ejemplos de cartografía temática. Alguno de los niños dijo que "nosotros también hacemos mapas". Esta era la 
+respuesta que queríamos que diesen para introducirlos en el punto de los mapas colaborativos y poder hablarles 
+de OpenStreetMap.
+
+Les contamos qué es OpenStreetMap y por qué se creó. El concepto de "cartografía libre" lo explicamos haciendo 
+una similitud con la Wikipedia y para la "cartografía colaborativa" les hablamos de las Mapping Parties y de 
+Humanitarian OSM.
+
+Al finalizar el taller les pusimos el vídeo [6] sobre el décimo aniversario de OSM.
 
 Referencias
 ===========
@@ -36,6 +63,7 @@ Referencias
 ..[3] http://wiki.openstreetmap.org/wiki/Kids_workshop
 ..[4] https://www.youtube.com/watch?v=i8iHj_O_ZNk
 ..[5] https://www.youtube.com/watch?v=VKyFk_owUGE
+..[6] https://www.youtube.com/watch?v=7sC83j6vzjo
 
 Agradecimientos
 ===============
