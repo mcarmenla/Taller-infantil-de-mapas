@@ -1,9 +1,9 @@
-===========================================
- Taller Introducción al mundo de los mapas
-===========================================
-:Info: See <http://goo.gl/Z8xOMv> for official website and <http://goo.gl/V4G4s8> for the slides.
+==========================================================================
+ Taller de mapas. Del Papel al Digital. Introducción al Mundo de los Mapas
+==========================================================================
+:Info: Mirar <http://goo.gl/Z8xOMv> para la página oficial y <http://goo.gl/V4G4s8> para las diapositivas.
 :Autores: Ramiro Aznar <ramiroaznar@gmail.com> y Carmen Langa <mcarmenla@yahoo.es>
-:Grupo: GeoInquietos Madrid
+:Groupo: GeoInquietos Madrid
 :Fecha: 2015-12-05
 :Localización: Medialab-Prado, Madrid
 :Número de participantes: 14
@@ -15,8 +15,7 @@ Introducción: ¿Qué es un mapa?
 ==============================
 Para romper el hielo, conocernos un poquito y ganarnos la confianza de los pequeños hicimos una presentación fácil 
 e interactiva. Primero nos presentamos los tutores diciendo nuestros nombres y dos cosas que nos interesaban. En
-nuestro caso una lógicamente eran los mapas. Después cada niño decía su nombre y dos de sus aficiones. Además, 
-todos llevábamos una pegatina con nuestro nombre.
+nuestro caso una lógicamente eran los mapas.
 
 Nada más comenzar les preguntamos qué era lo que ellos pensaban que es un mapa y si se atrevían a hacer uno, sin 
 darles apenas indicaciones. Así dió comienzo el Taller 1. Una vez que los niños terminaron pensamos en común una 
@@ -33,45 +32,6 @@ A continuación les mostramos una imagen aérea y un mapa de la almendra central
 con el objetivo de que los niños comprobasen que el lenguaje cartográfico puede expresar lo mismo que una imagen.
 Hubo unanimidad en la respuesta a la pregunta sobre cual de los dos les gustaba mas: el mapa.
 
-¿Qué son los satélites?
-=======================
-
-¿Cómo se dibujan los mapas?
-===========================
-
-¿Cómo se contruye un globo terráqueo?
-=====================================
-
-¿Quién trabaja haciendo mapas?
-==============================
-La respuesta a esta pregunta fue una relación de profesiones. Les dijimos que todas ellas tenían en común que 
-necesitaban representar información que se distribuye en el espacio, tal y como habíamos visto anteriormente con 
-los ejemplos de cartografía temática. Alguno de los niños dijo que "nosotros también hacemos mapas". Esta era la 
-respuesta que queríamos que diesen para introducirlos en el punto de los mapas colaborativos y poder hablarles 
-de OpenStreetMap.
-
-Les contamos qué es OpenStreetMap y por qué se creó. El concepto de "cartografía libre" lo explicamos haciendo 
-una similitud con la Wikipedia y para la "cartografía colaborativa" les hablamos de las Mapping Parties y de 
-Humanitarian OSM.
-
-Al finalizar el taller les pusimos el vídeo [6] sobre el décimo aniversario de OSM.
-
-Referencias
-===========
-..[1] http://www.gma.org/surfing/imaging/globe.html
-..[2] http://education.nationalgeographic.org/activity/investigating-map-projections/
-..[3] http://wiki.openstreetmap.org/wiki/Kids_workshop
-..[4] https://www.youtube.com/watch?v=i8iHj_O_ZNk
-..[5] https://www.youtube.com/watch?v=VKyFk_owUGE
-..[6] https://www.youtube.com/watch?v=7sC83j6vzjo
-
-Agradecimientos
-===============
-Agradecer a los 14 niños que participaron en el taller, a Medialab-Prado y 
-más concretamente a Javier Laporta por la oportunidad de realizar este taller 
-y esperemos que en 2016 sigamos colaborando.
-
-
 ================  ============================================================
 Taller 1          Dibuja tu primer mapa
 ================  ============================================================
@@ -83,6 +43,31 @@ Taller 1          Dibuja tu primer mapa
 				  contexto. El mapa resultante se utilizará para explicar la
 				  definición de mapa y los elementos del mismo.
 ================  ============================================================
+
+Para introducir la siguiente sección se les mostró un video "zoom out" de la Tierra al espacio [5].
+
+¿Qué son los satélites?
+=======================
+Basándonos en el taller realizado en Gijón en 2009 [3] y en la Wikipedia [6], se introdujo a los
+niños y niñas al mundo de *los satélites*. Primero preguntando su definición, si conocían alguno y qué 
+funciones realizaban. De este modo, pudieron diferenciar entre satélites artificiales y 
+naturales (La Luna), que se encontraban orbitando nuestro planeta y que tienen funciones de
+observación del tiempo y el clima, comunicaciones, asuntos militares... De una manera visual se 
+explicaron las cifras referentes a estos artefactos: unos 7.000 lanzados desde 1957, aproximadamente
+la mitad siguen orbitando La Tierra y de estos unos 1.000 siguen funcionando.
+
+Para acabar se retoma la función de algunos satélites que se encargan de fotografiar La Tierra,
+un objeto esférico (3D) obteniendo imágenes digitales, un objeto plano (2D) del que luego se 
+podrá obtener un mapa. De esta manera iniciamos a los chicos y chicas en *el concepto de proyección*.
+
+
+¿Cómo se dibujan los mapas?
+===========================
+
+Para poner el práctica el método de proyectar, se les enseñó un cubo de papel, preguntándoles
+cómo conseguirían ellos obtener su superficie en un plano (otro método podría haber sido
+utilizar una naranja [2]. Después de escuchar las respuestas, se les mostró el cubo desplegado. 
+A continuación se realizó un taller en el que ellos deberían proyectar una pelota en un plano.
 
 ================  ============================================================
 Taller 2          Proyecta tu pelota a un plano
@@ -96,9 +81,24 @@ Taller 2          Proyecta tu pelota a un plano
 :Objetivo:		  Demostrar la complejidad de las proyecciones cartográficas.
 				  Aunque complicado, de todos los participantes quizás alguno
 				  envuelva su pelota de una de las tres formas clásicas (cónica,
-				  cilíndrica o planar), y así utilizarlo para la explicación
+				  cilíndrica o polar), y así utilizarlo para la explicación
 				  posterior.
 ================  ============================================================
+
+Sirviéndonos del material generado por los participantes y de las diapositivas se explicó
+el concepto de proyección, así como las tres proyecciones cartográficas más importantes [7].
+A saber, la cilíndrica, la cónica y la polar. A continuación, sirviéndonos tanto de las
+diapositivas como de un mapa enrollado se les enseñó el resultado de aplicar cada una de
+estas proyecciones sobre el globo terrestre. Aunque al final no se expuso, existe un
+video bastante divertido sobre las proyecciones que podría añadirse en otros talleres [4].
+
+
+¿Cómo se contruye un globo terráqueo?
+=====================================
+
+Una vez vistas las proyecciones se les anima a los chicos y chicas a realizar el proceso
+inverso, es decir, a pasar de un plano (un mapa) a una esfera (una pelota). Para ello
+se realizar un último taller.
 
 ================  ============================================================
 Taller 3          Construye tu primer globo terráqueo
@@ -121,90 +121,47 @@ Taller 3          Construye tu primer globo terráqueo
 ================  ============================================================
 
 
+¿Quién trabaja haciendo mapas?
+==============================
+
+La respuesta a esta pregunta fue una relación de profesiones. Les dijimos que todas ellas tenían en común que 
+necesitaban representar información que se distribuye en el espacio, tal y como habíamos visto anteriormente con 
+los ejemplos de cartografía temática. Alguno de los niños dijo que "nosotros también hacemos mapas". Esta era la 
+respuesta que queríamos que diesen para introducirlos en el punto de los mapas colaborativos y poder hablarles 
+de OpenStreetMap.
+
+Les contamos qué es OpenStreetMap y por qué se creó. El concepto de "cartografía libre" lo explicamos haciendo 
+una similitud con la Wikipedia y para la "cartografía colaborativa" les hablamos de las Mapping Parties y de 
+Humanitarian OSM.
+
+Al finalizar el taller les pusimos el vídeo [8] sobre el décimo aniversario de OSM.
 
 
+Finalización del taller
+=======================
 
-================  ============================================================
-Explicit Markup   Examples (visible in the `text source`_)
-================  ============================================================
-Footnote          .. [1] Manually numbered or [#] auto-numbered
-                     (even [#labelled]) or [*] auto-symbol
-Citation          .. [CIT2002] A citation.
-Hyperlink Target  .. _reStructuredText: http://docutils.sf.net/rst.html
-                  .. _indirect target: reStructuredText_
-                  .. _internal target:
-Anonymous Target  __ http://docutils.sf.net/docs/ref/rst/restructuredtext.html
-Directive ("::")  .. image:: images/biohazard.png
-Substitution Def  .. |substitution| replace:: like an inline directive
-Comment           .. is anything else
-Empty Comment     (".." on a line by itself, with blank lines before & after,
-                  used to separate indentation contexts)
-================  ============================================================
+Para finalizar se preguntó a los niños qué les había parecido el taller, con qué
+parte habían disfrutado más y si lo recomendarían a sus amigos y familiares. Cada
+niño además se llevó el primer mapa que habían dibujado y su globo terráqueo artesanal.
 
-Inline Markup
-=============
-*emphasis*; **strong emphasis**; `interpreted text`; `interpreted text
-with role`:emphasis:; ``inline literal text``; standalone hyperlink,
-http://docutils.sourceforge.net; named reference, reStructuredText_;
-`anonymous reference`__; footnote reference, [1]_; citation reference,
-[CIT2002]_; |substitution|; _`inline internal target`.
-
-Directive Quick Reference
-=========================
-See <http://docutils.sf.net/docs/ref/rst/directives.html> for full info.
 
-================  ============================================================
-Directive Name    Description (Docutils version added to, in [brackets])
-================  ============================================================
-attention         Specific admonition; also "caution", "danger",
-                  "error", "hint", "important", "note", "tip", "warning"
-admonition        Generic titled admonition: ``.. admonition:: By The Way``
-image             ``.. image:: picture.png``; many options possible
-figure            Like "image", but with optional caption and legend
-topic             ``.. topic:: Title``; like a mini section
-sidebar           ``.. sidebar:: Title``; like a mini parallel document
-parsed-literal    A literal block with parsed inline markup
-rubric            ``.. rubric:: Informal Heading``
-epigraph          Block quote with class="epigraph"
-highlights        Block quote with class="highlights"
-pull-quote        Block quote with class="pull-quote"
-compound          Compound paragraphs [0.3.6]
-container         Generic block-level container element [0.3.10]
-table             Create a titled table [0.3.1]
-list-table        Create a table from a uniform two-level bullet list [0.3.8]
-csv-table         Create a table from CSV data [0.3.4]
-contents          Generate a table of contents
-sectnum           Automatically number sections, subsections, etc.
-header, footer    Create document decorations [0.3.8]
-target-notes      Create an explicit footnote for each external target
-math              Mathematical notation (input in LaTeX format)
-meta              HTML-specific metadata
-include           Read an external reST file as if it were inline
-raw               Non-reST data passed untouched to the Writer
-replace           Replacement text for substitution definitions
-unicode           Unicode character code conversion for substitution defs
-date              Generates today's date; for substitution defs
-class             Set a "class" attribute on the next element
-role              Create a custom interpreted text role [0.3.2]
-default-role      Set the default interpreted text role [0.3.10]
-title             Set the metadata document title [0.3.10]
-================  ============================================================
+Referencias
+===========
+..[1] http://www.gma.org/surfing/imaging/globe.html
+..[2] http://education.nationalgeographic.org/activity/investigating-map-projections/
+..[3] http://wiki.openstreetmap.org/wiki/Kids_workshop
+..[4] https://www.youtube.com/watch?v=i8iHj_O_ZNk
+..[5] https://www.youtube.com/watch?v=VKyFk_owUGE
+..[6] https://es.wikipedia.org/wiki/Sat%C3%A9lite_artificial
+..[7] https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica
+..[8] https://www.youtube.com/watch?v=7sC83j6vzjo
 
-Interpreted Text Role Quick Reference
-=====================================
-See <http://docutils.sf.net/docs/ref/rst/roles.html> for full info.
 
-================  ============================================================
-Role Name         Description
-================  ============================================================
-emphasis          Equivalent to *emphasis*
-literal           Equivalent to ``literal`` but processes backslash escapes
-math              Mathematical notation (input in LaTeX format)
-PEP               Reference to a numbered Python Enhancement Proposal
-RFC               Reference to a numbered Internet Request For Comments
-raw               For non-reST data; cannot be used directly (see docs) [0.3.6]
-strong            Equivalent to **strong**
-sub               Subscript
-sup               Superscript
-title             Title reference (book, etc.); standard default role
-================  ============================================================
+Agradecimientos
+===============
+Agradecer a los 14 niños que participaron en el taller, a Medialab-Prado y 
+más concretamente a Javier Laporta por la oportunidad de realizar este taller 
+y esperemos que en 2016 sigamos colaborando.
+
+
+Fin.
